@@ -25,6 +25,7 @@
 | AWS CloudFormation and AWS CDK | Define resources as code. Refer to section 8. |
 
 - All tools call the same AWS APIs.
+- Refer to [AWS CLI commands](<AWS CLI commands.md>) for the commands of this section.
 - Each API call needs credentials. AWS signs each request with Signature Version 4.
 
 ## Resource hierarchy
@@ -61,6 +62,7 @@ flowchart TD
   - **Tag policies, backup policies, and AI services opt-out policies**.
   - **Delegated administrator**: let a member account manage a service, such as GuardDuty.
 - SCPs do not apply to the management account. Do not run workloads in the management account.
+- Refer to [Organization setup guide](<Organization setup guide.md>) for the setup steps.
 
 ## AWS Control Tower
 

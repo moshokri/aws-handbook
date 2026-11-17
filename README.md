@@ -18,7 +18,7 @@ All documents use ASD-STE100 (Simplified Technical English):
 | No. | Section | Documents |
 |---|---|---|
 | 0 | Rubric of the exams | [Rubric of the exams](<Rubric of the exams/Rubric of the exams.md>) |
-| 1 | Access and resource management | [Access and resource management](<Access and resource management/Access and resource management.md>) |
+| 1 | Access and resource management | [1.0 Access and resource management](<Access and resource management/Access and resource management.md>) · [1.1 AWS CLI commands](<Access and resource management/AWS CLI commands.md>) · [1.2 Organization setup guide](<Access and resource management/Organization setup guide.md>) |
 | 2 | Security and privacy | [Security and privacy](<Security and privacy/Security and privacy.md>) |
 | 3 | Networking | [Networking](<Networking/Networking.md>) |
 | 4 | Storage | [Storage](<Storage/Storage.md>) |
